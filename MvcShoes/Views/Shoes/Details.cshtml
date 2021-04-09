@@ -1,0 +1,40 @@
+﻿@model MvcShoes.Models.Shoes
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Shoes</h4>
+    <hr />
+    <div class="mainImage">
+        <img src="~/images/@Model.ShoeImage" alt="" />
+    </div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShoeName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShoeName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ShoesId">Edit</a> |
+    <a asp-action="Index">Back</a>
+</div>
