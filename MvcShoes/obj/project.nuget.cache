@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hsxsQzSL4QEkbGblwngOQlma+G/3VnwpjVczlSMuAVruqlR4QbnGgseDyZf93ddiZ0TAFs0o/Xz8ZUvu/Rs5mA==",
+  "dgSpecHash": "IX4dhHBUlBwew7qyz0neCNy9EBjPW4SDtM4GT8HU59SGi6oLnsc/5hUnJx5+WOIwrQuKbNabchSvZIbfRFKUfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LabStudent-55-504266\\source\\repos\\MvcShoes\\MvcShoes\\MvcShoes.csproj",
+  "projectFilePath": "C:\\Users\\LabStudent-55-504266\\source\\repos\\MvcProject-2021\\MvcShoes\\MvcShoes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LabStudent-55-504266\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LabStudent-55-504266\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",

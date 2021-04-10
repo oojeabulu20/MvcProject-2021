@@ -9126,11 +9126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LabStudent-55-504266\\source\\repos\\MvcShoes\\MvcShoes\\MvcShoes.csproj",
+      "projectUniqueName": "C:\\Users\\LabStudent-55-504266\\source\\repos\\MvcProject-2021\\MvcShoes\\MvcShoes.csproj",
       "projectName": "MvcShoes",
-      "projectPath": "C:\\Users\\LabStudent-55-504266\\source\\repos\\MvcShoes\\MvcShoes\\MvcShoes.csproj",
+      "projectPath": "C:\\Users\\LabStudent-55-504266\\source\\repos\\MvcProject-2021\\MvcShoes\\MvcShoes.csproj",
       "packagesPath": "C:\\Users\\LabStudent-55-504266\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LabStudent-55-504266\\source\\repos\\MvcShoes\\MvcShoes\\obj\\",
+      "outputPath": "C:\\Users\\LabStudent-55-504266\\source\\repos\\MvcProject-2021\\MvcShoes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
